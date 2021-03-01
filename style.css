@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+htlm {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    background-color: #d6d6d6;
+}
+
+.container {
+    width: 60%;
+    margin: 2% auto;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.user {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1% 0;
+    font-style: italic;
+}
